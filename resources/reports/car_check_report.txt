@@ -1,0 +1,6 @@
+Car Registration Verification Report
+==================================================
+
+Mismatched Details:
+Reg: SG18HTN - Expected: {'reg_no': 'SG18HTN', 'make': 'Volkswagen', 'model': 'Golf Se Navigation Tsi Evo', 'year': '2018', 'color': 'White'} - Actual: {'reg_no': 'SG18HTN', 'make': '', 'model': '', 'year': '', 'color': ''}
+==================================================
